@@ -1,4 +1,4 @@
 # apnacollege-demo
 My first git repository.
 </br>
-Author-TANVI JADHAV.
+Author-TANVI (learning).
